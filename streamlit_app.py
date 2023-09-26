@@ -1,4 +1,4 @@
-#can view results on Streamlit website
+#can view results on Streamlit website, using python to code
 
 import streamlit
 
